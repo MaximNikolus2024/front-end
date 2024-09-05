@@ -1,0 +1,52 @@
+* {
+    font-size: 18px;
+}
+
+h1 {
+    background-color: blue;
+    color: white;
+}
+
+p {
+    background-color: bisque;
+}
+
+#first-p {
+    background-color: aquamarine;
+}
+
+.biggerfont {
+    font-size: 26px;
+
+}
+
+#first-p:hover {
+    background-color: blueviolet;
+}
+
+#first-p a {
+    color: red;
+}
+
+.redbg {
+    background-color: burlywood;
+}
+
+.first-div {
+    background-color: cadetblue;
+}
+
+.inner-div {
+    background-color: aquamarine;
+    height: 100px;
+    width: 100px;
+}
+
+.formatted-text {
+    color: grey;
+    font-style: italic;
+}
+
+.special-color {
+    background-color: chocolate;
+}
